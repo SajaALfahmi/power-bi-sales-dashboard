@@ -20,7 +20,7 @@ The report analyzes sales data across products, categories, and cities. It inclu
 - `screenshots/` – Visual previews of the dashboard
 
 ## 🔗 Screenshots
-![Dashboard Overview](screenshots/dashboard1.png)
+[![Dashboard Overview](screenshots/dashboard1.png)](https://github.com/SajaALfahmi/power-bi-sales-dashboard/blob/main/Power%20BI%20simple%20project.pdf)
 
 ## 🎯 Purpose
 This was built as part of my training task to practice data import, modeling, and visualization in Power BI.
